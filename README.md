@@ -3,6 +3,8 @@
 ### 총 3차에 걸쳐서 프로젝트 진행
 
 #### [1차 프로젝트 PPT](https://www.canva.com/design/DAGB42fvvaM/rDsv2_QVZM5FUH3WrQg3hg/view?utm_content=DAGB42fvvaM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+#### [2차 프로젝트 PPT](https://www.canva.com/design/DAGB45X_50U/Ez00FrVRaVWKBs8xTgOi0Q/view?utm_content=DAGB45X_50U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+#### [3차 프로젝트 PPT](https://www.canva.com/design/DAGEoJpXBJ4/Sw2p-PDyYF7o6g5u5tV82A/edit?utm_content=DAGEoJpXBJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## 프로젝트 정보
 ### 1차
 #### 공공데이터 포탈을 이용하여 한국마사회 정보 API 등록
